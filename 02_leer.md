@@ -8,19 +8,20 @@ FinAlgoritmo
 
 ## Ejemplos
 
+### Ejemplo 1
 ```
 // leer numero entero
 
 Leer(num)
-
-
-
+```
+### Ejemplo 2
+```
 // leer numero en decimal
 
 Leer(num)
-
-
-
+```
+### Ejemplo 3
+```
 // leer cadena de texto
 
 Leer(texto)

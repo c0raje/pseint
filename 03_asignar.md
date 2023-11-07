@@ -8,19 +8,20 @@ FinAlgoritmo
 
 ## Ejemplos
 
+### Ejemplo 1
 ```
 // asignar un valor entero a una variable
 
 num <- 10
-
-
-
+```
+### Ejemplo 2
+```
 // asignar un valor decimal a una variable
 
 num <- 3.14
-
-
-
+```
+### Ejemplo 3
+```
 // asignar un valor de texto a una variable
 
 texto <- "Hola, mundo!"

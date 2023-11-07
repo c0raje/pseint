@@ -12,23 +12,24 @@ FinAlgoritmo
 
 ## Ejemplos
 
+### Ejemplo 1
 ```
 // si la condicion es verdadera, ejecutar un bloque de codigo
 
 si (numero > 0) entonces
     escribir("El número es positivo")
 finSi
-
-
-
+```
+### Ejemplo 2
+```
 // si la condicion es falsa, ejecutar un bloque de codigo
 
 si (edad < 18) entonces
     escribir("Eres menor de edad")
 finSi
-
-
-
+```
+### Ejemplo 3
+```
 // Si la condicion es verdadera, ejecutar un bloque de codigo; de lo contrario, ejecutar otro bloque de codigo
 
 si (nota >= 60) entonces
