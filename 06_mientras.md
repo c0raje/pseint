@@ -35,3 +35,25 @@ escribir("La suma total es: ", suma)
 ### Descripcion
 
 El comando "mientras" en PSeInt se utiliza para crear un bucle que se ejecuta repetidamente mientras se cumpla una determinada condición. Permite repetir un bloque de código hasta que la condición especificada sea falsa.
+
+
+
+[01_escribir.md](01_escribir.md)
+
+[02_leer.md](02_leer.md)
+
+[03_asignar.md](03_asignar.md)
+
+[04_si-entonces.md](04_si-entonces.md)
+
+[05_segun.md](05_segun.md)
+
+[06_mientras.md](06_mientras.md)
+
+[07_repetir.md](07_repetir.md)
+
+[08_para.md](08_para.md)
+
+[09_funcion.md](09_funcion.md)
+
+[README.md](README.md)

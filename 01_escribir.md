@@ -36,3 +36,25 @@ Escribir("La suma de ", num1, " y ", num2, " es: ", suma)
 ## Descripcion
 
 El comando "escribir" en PSeInt se utiliza para mostrar información en la pantalla durante la ejecución de un programa. Permite imprimir valores, mensajes y resultados en la consola.
+
+
+
+[01_escribir.md](01_escribir.md)
+
+[02_leer.md](02_leer.md)
+
+[03_asignar.md](03_asignar.md)
+
+[04_si-entonces.md](04_si-entonces.md)
+
+[05_segun.md](05_segun.md)
+
+[06_mientras.md](06_mientras.md)
+
+[07_repetir.md](07_repetir.md)
+
+[08_para.md](08_para.md)
+
+[09_funcion.md](09_funcion.md)
+
+[README.md](README.md)

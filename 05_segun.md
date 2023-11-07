@@ -50,4 +50,26 @@ finSegún
 
 ### Descripcion
 
-El comando "según" en PSeInt se utiliza para realizar una selección múltiple basada en el valor de una variable o expresión. Permite ejecutar diferentes bloques de código dependiendo del valor que tome la variable o expresión evaluada.3
+El comando "según" en PSeInt se utiliza para realizar una selección múltiple basada en el valor de una variable o expresión. Permite ejecutar diferentes bloques de código dependiendo del valor que tome la variable o expresión evaluada.
+
+
+
+[01_escribir.md](01_escribir.md)
+
+[02_leer.md](02_leer.md)
+
+[03_asignar.md](03_asignar.md)
+
+[04_si-entonces.md](04_si-entonces.md)
+
+[05_segun.md](05_segun.md)
+
+[06_mientras.md](06_mientras.md)
+
+[07_repetir.md](07_repetir.md)
+
+[08_para.md](08_para.md)
+
+[09_funcion.md](09_funcion.md)
+
+[README.md](README.md)
